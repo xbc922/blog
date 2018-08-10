@@ -82,42 +82,6 @@ deploy:
   repository: git@github.com:xbc922/xbc922.github.io.git
   branch: master
 
-# Header
-
-menu:
-  主页: /
-  #随笔: /tags/随笔/
-
-# SubNav
-subnav:
-  github: "https://github.com/xbc922"
-  #weibo: "#"
-  #rss: "#"
-  #zhihu: "#"
-  #qq: "#"
-  #weixin: "#"
-  #jianshu: "#"
-  #douban: "#"
-  #segmentfault: "#"
-  #bilibili: "#"
-  #acfun: "#"
-  #mail: "mailto:litten225@qq.com"
-  #facebook: "#"
-  #google: "#"
-  #twitter: "#"
-  #linkedin: "#"
-
-rss: /atom.xml
-
-# 文章太长，截断按钮文字
-excerpt_link: more
-# 文章卡片右下角常驻链接，不需要请设置为false
-show_all_link: '展开全文'
-# 数学公式
-mathjax: true
-# 是否在新窗口打开链接
-open_in_new: false
-
 jsonContent:
    meta: false
    pages: false
